@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+input, button {
+    margin: 5px;
+}
+
+#passwords-list {
+    margin: 20px 10px;
+}
